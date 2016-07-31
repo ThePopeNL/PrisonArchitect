@@ -1,0 +1,6 @@
+Name                 "Lights"  
+Author               ThePopeNL
+Description          "Two-wide hallways is the way most CEO's go nowadays since it provides enough room for dangerous inmates to pass each other.\r\nHowever, they have always have to put lights on one side of the hallway, rising the tension among inmates."
+IsTranslation        false
+Version              v1.0
+Date                 31/07/2016
